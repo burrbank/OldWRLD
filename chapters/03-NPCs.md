@@ -1,18 +1,18 @@
 ### BSMC Operations Staff
 
-**Hank Hass** *Director*
+**Hank Haas** *Director*
 
-**Jen Peters** *Security*
+**Jenna Peters** *Security*
 
-**ABADON - 03**  *operations*
+**ABADDON - 03**  *operations*
 
 
 
-### Attendees Rebelion
+### Attendees Rebellion
 
 **Leo Grant** *Visionary*
 
-**Gretta Holton** *Raider*
+**Greta Bolton** *Raid Captain*
 
-**ABADON - 01/02** *intelegence*
+**ABADDON - 01 and 02 ** *intelligence*
 
