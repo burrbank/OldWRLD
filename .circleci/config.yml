@@ -38,3 +38,7 @@ jobs:
           name: Check if docx exists
           command:
             test -s build/docx/book.docx
+
+      - store_artifacts:
+          path: build
+          destination: artifact-file
