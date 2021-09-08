@@ -1,3 +1,5 @@
+# Map
+
 ## Overview
 
 ```mermaid
@@ -13,28 +15,30 @@ B-->D
 
 ```
 
-Landing Bay:
+\pagebreak
+
+**Landing Bay**:
 
 * Docking for 6 Cruise Shuttles
 * Launch Rail for reentry into space
 * Mural depicting Historic scenes from the 1950s to late-1990s
 
-Park Entrance
+**Park Entrance**:
 
 * rows on rows of **MomentoMAX** machines
 * Heavily guarded
 * Entrance to Mission Control behind checkpoint
 * Gift Shop
 
-Old WRLD
+**Old WRLD**:
 
 * Main park
 * See details in **<u>Chapter 5</u>**
 
-Mission Control
+**Mission Control**:
 
 
 
-Maintenance
+**Maintenance**:
 
-Under Park
+**Under Park**:
