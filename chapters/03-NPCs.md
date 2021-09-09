@@ -1,4 +1,8 @@
-### BSMC Operations Staff
+\pagebreak
+
+# NPCs
+
+## BSMC Operations Staff
 
 **Hank Haas** *Director*
 
@@ -6,9 +10,9 @@
 
 **ABADDON - 03**  *operations*
 
+\pagebreak
 
-
-### Attendees Rebellion
+## Attendees Rebellion
 
 **Leo Grant** *Visionary*
 
