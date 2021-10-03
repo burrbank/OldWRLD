@@ -41,7 +41,12 @@ B-->D
 
 **Mission Control**:
 
-
+* Thousands of security monitors
+* Emotion stimulating gas controls
+  * Rose Haze **<u>-1d5 stress/day</u>** (default setting)
+  * Paranoia Mist **<u>+1d5 stress/day</u>** (for lead up to Y2K crash event)
+  * !Nerve Gas! **kills all unprepared people within Old WRLD and Under Park**
+* Comms to all active staff members
 
 **Maintenance**:
 

@@ -11,7 +11,7 @@ The Problem is that a contingent of the park's attendees have discovered that th
 **BSMCorp** is putting a bounty up for anyone who can flush out the rebellion threatening their tourist trap. **700 000 000 Credits** to resolve the situation. Subtracting the following fees (*only notified once the crew arrives on planet*)
 
 * -**10 000 credits** per crew member for park access
-* **-100 000 credits** for any killed attendee
+* **-100 000 credits** for any killed attendee (including rogue attendees)
 * **-20 credits / day** for O2
 * equipment and gear can be purchased at a **4x markup** out of the pay all branded with the **BSMCorp Logo**
 
