@@ -32,7 +32,7 @@ The Problem is that a contingent of the park's attendees have discovered that th
 
 * Will perceive modern technology as something that could have plausibly existed Y2K crash
 
-* You have 1d5 stuck in your head:
+* You have 1d5 stuck in your head: # this should be 90s songs
 
   1. The Twist - Chubby Checker
   2. Le Freak - Chic

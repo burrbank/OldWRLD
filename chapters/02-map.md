@@ -25,7 +25,7 @@ B-->D
 
 * Docking for 6 Cruise Shuttles
 * Launch Rail for reentry into space
-* Mural depicting Historic scenes from the 1950s to late-1990s
+* Mural depicting *"Historic"* scenes from the 1980s to late-1990s
 
 **Park Entrance**:
 
@@ -50,4 +50,15 @@ B-->D
 
 **Maintenance**:
 
+* Hidden vents to the park
+  * Vents to 90% of locations within OldWRLD
+  * Vents to 60% of locations within the Under Park
+  * Vents appear to be solid walls to **<u>fully immersed attendees</u>**
+* Chemical stores / cleaning supplies
+* Recharge rack for Maintenance droids **Maintenance Droid <u>C 45</u> <u>I 30</u> cleaning acid spray <u>2d20 DMG</u>**
+
 **Under Park**:
+
+* Discarded remains of other half baked park ideas
+* See generation tables in **<u>Chapter 6</u>**
+
